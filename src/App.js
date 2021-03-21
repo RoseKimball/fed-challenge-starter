@@ -1,26 +1,30 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import WorkoutCard from './Components/WorkoutCard';
+import './Styles.css';
+import {Data} from './Data.js';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="Container">
+      <WorkoutCard workout={Data}/>
     </div>
   );
 }
 
 export default App;
+
+/*
+
+- create workout card and test with one object
+-create layout with flexbox
+-create an array of objects to loop through, with:
+  -image
+  -title
+  -length
+  -distance
+  -view details: true/false
+  -workouts (Number)
+  -instructorImage
+-when active, decreased box-shadow
+
+*/
