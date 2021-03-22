@@ -12,7 +12,7 @@ const WorkoutCard = ({workout}) => {
                 return (
                     <div key={w.title} className='WorkoutCard'>
                         <div className='Image'>
-                            <img src={process.env.PUBLIC_URL +'/assets/' + w.image} alt='workoutImg'></img>
+                            <img className='WorkoutImg' src={process.env.PUBLIC_URL +'/assets/' + w.image} alt='workoutImg'></img>
                             {w.workouts > 1 ? (<Playlist number={w.workouts}/>) : null}
                         </div>
                             <div className='Title'>
