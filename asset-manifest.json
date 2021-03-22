@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/fed-challenge-starter/static/css/main.c92b224e.chunk.css",
-    "main.js": "/fed-challenge-starter/static/js/main.e9da237f.chunk.js",
-    "main.js.map": "/fed-challenge-starter/static/js/main.e9da237f.chunk.js.map",
+    "main.css": "/fed-challenge-starter/static/css/main.2406979d.chunk.css",
+    "main.js": "/fed-challenge-starter/static/js/main.1ff0c40a.chunk.js",
+    "main.js.map": "/fed-challenge-starter/static/js/main.1ff0c40a.chunk.js.map",
     "runtime-main.js": "/fed-challenge-starter/static/js/runtime-main.8d66009a.js",
     "runtime-main.js.map": "/fed-challenge-starter/static/js/runtime-main.8d66009a.js.map",
     "static/js/2.904f655e.chunk.js": "/fed-challenge-starter/static/js/2.904f655e.chunk.js",
     "static/js/2.904f655e.chunk.js.map": "/fed-challenge-starter/static/js/2.904f655e.chunk.js.map",
     "index.html": "/fed-challenge-starter/index.html",
-    "static/css/main.c92b224e.chunk.css.map": "/fed-challenge-starter/static/css/main.c92b224e.chunk.css.map",
+    "static/css/main.2406979d.chunk.css.map": "/fed-challenge-starter/static/css/main.2406979d.chunk.css.map",
     "static/js/2.904f655e.chunk.js.LICENSE.txt": "/fed-challenge-starter/static/js/2.904f655e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8d66009a.js",
     "static/js/2.904f655e.chunk.js",
-    "static/css/main.c92b224e.chunk.css",
-    "static/js/main.e9da237f.chunk.js"
+    "static/css/main.2406979d.chunk.css",
+    "static/js/main.1ff0c40a.chunk.js"
   ]
 }
